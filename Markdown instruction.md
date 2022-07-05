@@ -124,3 +124,4 @@ git pull
 ```
 git reset <commit hash>
 пше 123
+ git 123
